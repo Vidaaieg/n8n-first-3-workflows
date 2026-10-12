@@ -189,6 +189,20 @@ Keep it simple and explain any expression you use in one line.
 
 ---
 
+## 📚 عايز تكمل؟ مصادر تذاكر منها n8n
+
+- **n8n with Karim — كريم نبيل** (يوتيوب، عربي): بلاي ليست كاملة بالعربي فيها 26 فيديو عن n8n، أحسن بداية لو عايز تتعلم بلغتك.
+  🔗 [البلاي ليست](https://www.youtube.com/playlist?list=PLLHIYYlcgk6KN58UnPm8q1btNHLDJlYto)
+  🔗 [وفيديو تاني من كريم تبدأ بيه](https://www.youtube.com/watch?v=3ntNY3sL4SI)
+- **Nate Herk | AI Automation** (يوتيوب، إنجليزي): من أشهر القنوات اللي بتشرح n8n والـ AI Agents خطوة بخطوة، وفيها مشاريع عملية كتير تقدر تبنيها معاه.
+  🔗 [youtube.com/@nateherk](https://www.youtube.com/@nateherk)
+- **الكورسات الرسمية بتاعة n8n** (مجانية، إنجليزي): Level 1 وLevel 2، مكتوبة خطوة بخطوة من فريق n8n نفسه، وبتغطي الأساسيات لحد الـ Data والـ Expressions.
+  🔗 [docs.n8n.io/courses](https://docs.n8n.io/courses/)
+
+> 💡 نصيحتي: اتفرج وإنت فاتح n8n جنبك وابني مع الفيديو، متتفرجش وخلاص.
+
+---
+
 ## ⚠️ نصايح مهمة
 
 - **جرّب كل Node لوحده** بـ Test step قبل ما تشغل الـ Workflow كله.
